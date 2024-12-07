@@ -1,2 +1,1 @@
-# hqd
-HQD Monorepo
+# HQD
